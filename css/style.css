@@ -108,5 +108,8 @@ footer a{
    .container{
        margin: 30px;
    }
+    .icon{
+    text-align: center;
+}
 
 }
